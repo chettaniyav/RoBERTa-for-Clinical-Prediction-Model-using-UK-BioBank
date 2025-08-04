@@ -118,9 +118,7 @@ We compared our transformer-based model with baseline models:
   * 15% held-out test set
   * Bootstrap resampling
 * **Metrics**:
-
-  * AUROC
-  * AUPRC
+<img width="688" height="141" alt="image" src="https://github.com/user-attachments/assets/eb0f678a-5080-4e5b-9b14-6369ec687636" />
 
 All preprocessing steps mirrored those used in training phases for both SOTA and baseline models.
 
