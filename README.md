@@ -1,5 +1,3 @@
----
-
 # ⚕️ MLM for Clinical Contextual Language Modeling & CVD Prediction
 
 This repository contains the implementation of a **Masked Language Modeling (MLM)**-based approach for pre-training and fine-tuning a RoBERTa-based model on clinical data, followed by downstream classification tasks for **Cardiovascular Disease (CVD)** prediction.
