@@ -133,11 +133,6 @@ All preprocessing steps mirrored those used in training phases for both SOTA and
 * pandas
 * tqdm
 
-Install via:
-
-```bash
-pip install -r requirements.txt
-```
 ---
 
 ## 🧾 Citation
